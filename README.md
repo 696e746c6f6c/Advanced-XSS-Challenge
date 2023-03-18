@@ -10,4 +10,4 @@
 
 ## Note:
 
-- If you get one, contact me on Twitter or send me a screenshot to my HackerOne email.
+- If you get one, contact me on Twitter or send me a screenshot to my HackerOne email. Hope you enjoy it and good luck!
