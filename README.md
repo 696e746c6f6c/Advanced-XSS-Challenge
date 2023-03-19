@@ -18,7 +18,7 @@
 
 `sudo ufw allow 80/tcp`
 
-Also if you want to verify that your Apache server is running, you can do this via this command:
+- Also if you want to verify that your Apache server is running, you can do this via this command:
 
 `sudo service apache2 status`
 
