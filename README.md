@@ -22,6 +22,10 @@
 
 `sudo service apache2 status`
 
+- And once you are done with this XSS challenge, you can stop Apache server by this command:
+
+`sudo service apache2 stop`
+
 ## Warning:
 
 - Please if there's any issues with my code or it's not possible to solve this challenge, feel free to open issues and I will check them. But I'm prety sure it's possible to solve this challenge. You will see why.
