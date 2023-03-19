@@ -24,7 +24,7 @@
 
 ## Warning:
 
-- Please if there's any issues with my code or it's not possible to solve challenge, feel free to open issues and I will check them. But I'm prety sure it's possible to solve this challenge. You will see why.
+- Please if there's any issues with my code or it's not possible to solve this challenge, feel free to open issues and I will check them. But I'm prety sure it's possible to solve this challenge. You will see why.
 
 ## Note:
 
