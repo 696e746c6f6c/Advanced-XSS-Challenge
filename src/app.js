@@ -3,6 +3,7 @@ let name = params.get('query');
 let input = document.getElementById('query');
 let form = document.querySelector('form');
 let hiDiv = document.getElementById('hi');
+hiDiv.innerHTML = input.value
 
 if (name) {
     input.value = name;
