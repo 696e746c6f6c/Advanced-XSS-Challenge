@@ -10,7 +10,7 @@ if (name) {
 }
 
 function checkInput(query) {
-    let regex = /^[\w\s.,!&'()\#$\-]{0,25}$/; // Hint: letters and Spaces are only allowed
+    let regex = /^[\w\s.,!&'()\#$\-]{0,25}$/; 
     return regex.test(query);
 }
 
