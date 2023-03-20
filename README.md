@@ -8,6 +8,8 @@
 
 - If you want to access URL of this challenge. Here's what you can do. Open your terminal and type this:
 
+`git clone https://github.com/int-wsl/Advanced-XSS-Challenge.git`
+
 `sudo apt-get install apache2`
 
 `sudo rm -rf /var/www/html/*`
